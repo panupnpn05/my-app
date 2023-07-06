@@ -1,0 +1,38 @@
+
+
+.index-data{
+    width: 70%;
+
+}
+
+.data-value{
+    width: 100%;
+}
+
+@media (max-width: 410px) {
+    .index-data{
+        width: 90%;
+        margin-left: 5px;
+    }
+    .data-value{
+        width: 100%;
+    }
+    .renderInput{
+        width: 100%;
+    }
+
+    .AddDoc{
+        right: 0;
+        top: 0;
+    }
+  }
+
+  .roboto-300{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+
+  .roboto-400{
+    font-family: 'Roboto' , sans-serif;
+    font-weight: 400;
+  }
